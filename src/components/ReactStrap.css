@@ -1,0 +1,29 @@
+.inputCheck{
+    width: 100%;
+    margin-left: 20px !important;
+}
+.paragrifLeft {
+    margin-right: 20%;
+    opacity: .5;
+}
+.paragrifLeftt {
+    margin-right: 8%;
+    opacity: .5;
+}
+.paragrifLefts{
+    margin-right: 45%;
+    opacity: .5;
+}
+
+.multiSelect {
+    opacity: .5;
+    margin-right: 55%;
+}
+
+.wrapperMini {
+    margin-left: 2%;
+}
+
+.buttons {
+    margin-right: 100%;
+}
